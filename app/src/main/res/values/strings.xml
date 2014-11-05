@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android 5 keensoft</string>
+
+    <!-- Describe  "close and open drawer" action for accessibility -->
+    <string name="open_drawer">Drawer abierto</string>
+    <string name="close_drawer">Drawer cerrado</string>
+    <string name="action_settings">action_settings</string>
+    <string name="keensoft">http://www.keensoft.es</string>
+    <string name="title_activity_detail">Detalle</string>
+    <string name="transition">transition</string>
+    <string name="urlAljaferia">market://details?id=es.keensoft.aljaferia</string>
+    <string name="Card1Title">Titulo 2</string>
+    <string name="Card2Title">Titulo 3</string>
+    <string name="Card3Title">Aljaferia</string>
+
+</resources>

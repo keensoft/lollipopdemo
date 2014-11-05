@@ -1,0 +1,19 @@
+<resources>
+
+
+    <!-- extend one of the Theme.AppCompat themes -->
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
+        <!-- customize the color palette -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="floatingActionButtonStyle">@style/AppTheme.Fab</item>
+
+    </style>
+
+    <style name="AppTheme.Fab" parent="FloatingActionButton">
+        <item name="floatingActionButtonColor">@color/my_fab_color</item>
+    </style>
+
+</resources>
