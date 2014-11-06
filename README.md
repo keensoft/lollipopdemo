@@ -3,6 +3,9 @@ Android 5 Lollipop Demo
 
 ![Alt text][4]
 
+Preview
+----
+![Alt text][6]
 
 Descripción
 ----
@@ -41,3 +44,4 @@ Web: [http://keensoft.es][3]
 [3]: http://keensoft.es
 [4]: http://img.phonandroid.com/2014/10/android-5-lollipop-officiel.jpg
 [5]: http://android­developers.blogspot.com.br/2014/10/material­design­on­android­checklist.html
+[6]: http://www.keensoft.es/wp-content/uploads/2014/11/lollipopdemo.gif
